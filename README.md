@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeniusNirmit
 - 👀 I’m interested in Tech Stuff
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on varoius projects
+- 💞️ I’m pursuing to be a geek of all geeks.
 - 📫 You can reach me with the email=>nirmitrptp@gmail.com
 
 <!---
