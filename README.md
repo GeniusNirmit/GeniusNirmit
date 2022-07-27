@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeniusNirmit.
 - 👀 I’m interested in Web Development, Cloud Computing and Competitive Programming.
-- 🌱 I’m currently learning DSA and Node.js.
+- 🌱 I’m currently learning DSA and JavaScript.
 - 💞️ I’m pursuing a B. Tech degree in Computer Engineering.
 - 📫 You can reach me with the email=>nirmitrptp@gmail.com
 
