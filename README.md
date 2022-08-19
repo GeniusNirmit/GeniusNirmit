@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nirmit Pandya</h1>
 <h3 align="center">Passionate in Web Dev., DevOps and Cloud Computing</h3>
-<div>
-  🌱 I’m currently learning <span style="color:#f67280">DSA and various Web Technologies</span>
+  -🌱 I’m currently learning <span style="color:#f67280">DSA and various Web Technologies</span>
 
- 👨‍💻 All of my projects are available at [GeniusNirmit](https://github.com/GeniusNirmit)
+  - 👨‍💻 All of my projects are available at [GeniusNirmit](https://github.com/GeniusNirmit)
 
- 📫 How to reach me **nirmitrptp@gmail.com**
-</div>
+  - 📫 How to reach me **nirmitrptp@gmail.com**
+
+<img align="center" width="400" src="mygif.gif">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
