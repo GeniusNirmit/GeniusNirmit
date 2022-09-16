@@ -1,10 +1,5 @@
 # Hey, geeks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
-<p style="font-family: sans-serif; font-size:25pt; ">
-    I'm Nirmit Pandya
-</p>
-
-## Who Am I? 🤠
+## About 🤠
 
 - 🤓 A passionate Developer and Competitive Programmer.
 - 💻 I’m interested in Web Development, DevOps and Cloud Computing.
@@ -43,7 +38,7 @@
  
 ## Github Stats 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&hide_border=true&theme=gotham" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
 <br>
 
