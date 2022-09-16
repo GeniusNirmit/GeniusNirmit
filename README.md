@@ -1,6 +1,8 @@
 # Hey, geeks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Nirmit Pandya
+<p style="font-family: sans-serif; font-size:25pt; ">
+    I'm Nirmit Pandya
+</p>
 
 ## Who Am I? 🤠
 
@@ -22,6 +24,8 @@ I'm Nirmit Pandya
 ## Other Shields 🛡
 
 <p align="left">
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
@@ -30,6 +34,8 @@ I'm Nirmit Pandya
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
+
 </p>
 
 <br>
@@ -44,7 +50,7 @@ I'm Nirmit Pandya
 ![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=react-dark)
 <br>
 
-<p align="center">Find me on other platforms</p>
+<p align="center">Find me on other platforms !!!</p>
 
 <p align="center">
  
