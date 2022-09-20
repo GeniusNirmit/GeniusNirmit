@@ -42,7 +42,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=gotham&area=true&custom_title="Github Contributions of Genius Nirmit")
+![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=gotham&area=true)
 <br>
 
 <p align="center">Find me on other platforms !!!</p>
