@@ -30,6 +30,7 @@
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
 
 </p>
 
