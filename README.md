@@ -52,4 +52,11 @@
 <br>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=gotham&area=true)
+
+
+
+<!--- ## Leetcode Stats 🏆--->
+
+<!---![LeetCode Stats](https://leetcard.jacoblin.cool/GeniusNirmit?theme=dark&font=Roboto%20Mono&ext=heatmap)--->
+
 <br>
