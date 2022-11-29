@@ -55,8 +55,8 @@
 
 
 
-<!--- ## Leetcode Stats 🏆--->
+## Leetcode Stats 🏆
 
-<!---![LeetCode Stats](https://leetcard.jacoblin.cool/GeniusNirmit?theme=dark&font=Roboto%20Mono&ext=heatmap)--->
+![LeetCode Stats](https://leetcard.jacoblin.cool/GeniusNirmit?theme=nord&font=Ubuntu%20Mono&ext=heatmap&&width=1000&&height=400)
 
 <br>
