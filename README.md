@@ -1,9 +1,9 @@
 # Hey, geeks!, I am Nirmit Pandya<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 ## About 🤠
 
-- 🤓 A passionate Developer and Competitive Programmer.
-- 💻 I’m interested in Web Development, DevOps and Cloud Computing.
-- 🌱 I’m currently learning DSA and various Web Technologies.
+- 🤓 A passionate Developer.
+- 💻 interested in Web Development, DevOps and Cloud Computing.
+- 🌱 currently learning DSA and various Web Technologies.
 - 📫 You can reach me with the email : <a href="https://twitter.com/Genius_Nirmit" target="_blank">
                                          <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
                                          <a href="https://www.linkedin.com/in/nirmit-pandya-b0a441232/" target="_blank">
@@ -51,7 +51,8 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=gotham&area=true)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=gotham&area=true) -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GeniusNirmit&theme=gotham&area=true)
 
 
 
