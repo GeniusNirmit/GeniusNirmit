@@ -1,6 +1,7 @@
 # Hey, geeks!, I am Nirmit Pandya<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 ## About 🤠
 
+
 - 🤓 A passionate Developer.
 - 💻 interested in Web Development, DevOps and Cloud Computing.
 - 🌱 currently learning DSA and various Web Technologies.
@@ -61,3 +62,5 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/GeniusNirmit?theme=nord&font=Ubuntu%20Mono&ext=heatmap)
 
 <br>
+
+
