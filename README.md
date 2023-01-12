@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C;CPP;JAVA;Nodejs;Javascript;Python)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusNirmit&theme=react)](https://github.com/GeniusNirmit/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeniusNirmit&theme=react)](https://github.com/GeniusNirmit/github-readme-stats) -->
 
 <br>
 
@@ -48,7 +48,7 @@
  
 ## Github Stats 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" > -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
 <br>
 
