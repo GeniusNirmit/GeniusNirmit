@@ -45,7 +45,7 @@
  
 ## Github Stats 🏆
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" > -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
 <br>
 
