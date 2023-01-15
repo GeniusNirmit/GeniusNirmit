@@ -38,9 +38,6 @@
     <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://hyper.is/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyper_sh/hyper_sh-icon.svg" alt="hyper terminal" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://slack.com/intl/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
 <br>
@@ -48,7 +45,7 @@
  
 ## Github Stats 🏆
 
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" > -->
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
 <br>
 
