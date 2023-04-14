@@ -2,7 +2,7 @@
 ## About 🤠
 
 
-- 🤓 A passionate Developer.
+- 🤓 A  passionate Developer.
 - 💻 interested in Web Development, DevOps and Cloud Computing.
 - 🌱 currently learning DSA and various Web Technologies.
 - 📫 You can reach me with the email : <a href="https://twitter.com/Genius_Nirmit" target="_blank">
