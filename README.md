@@ -1,4 +1,4 @@
-# Hey, geeks!, I am Nirmit Pandya<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hey, geeks!, I am Nirmit Pandya<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >
 ## About 🤠
 
 
