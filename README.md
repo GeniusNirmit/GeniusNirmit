@@ -12,6 +12,9 @@
     
 <br>
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;DSA;DevOps;Competitive+Programming)](https://git.io/typing-svg)
 
 <img align="center" width="400" src="mygif.gif">
