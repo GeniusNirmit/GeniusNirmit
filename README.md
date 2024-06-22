@@ -2,9 +2,9 @@
 ## About 🤠
 
 
-- 🤓 A passionate Software Developer.
-- 💻 Determined to conquer real-world challenges with noble expertise.
-- 🌱 Mastering technologies to conquer challenges with royal finesse.
+- 🤓 A passionate Software Engineer.
+- 💻 Recognizing the diverse techniques applied on today's fuel namely DATA!!!
+- 🌱 Mastering technologies to conquer challenges with ease and finesse.
 - 📫 You can reach me with the email : <a href="https://twitter.com/Genius_Nirmit" target="_blank">
                                          <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
                                          <a href="https://www.linkedin.com/in/nirmit-pandya-b0a441232/" target="_blank">
